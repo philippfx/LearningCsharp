@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCsharp", "LearningCsharp\LearningCsharp.csproj", "{88D1CCF6-E810-41B6-BAD3-A47A4988BF29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{0504143E-723B-4097-9813-13DED2EF7742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "WindowsFormsApp\WindowsFormsApp.csproj", "{B23C334A-DB1F-41F2-BBDB-7E72AE742669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D1CCF6-E810-41B6-BAD3-A47A4988BF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D1CCF6-E810-41B6-BAD3-A47A4988BF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D1CCF6-E810-41B6-BAD3-A47A4988BF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D1CCF6-E810-41B6-BAD3-A47A4988BF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0504143E-723B-4097-9813-13DED2EF7742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0504143E-723B-4097-9813-13DED2EF7742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0504143E-723B-4097-9813-13DED2EF7742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0504143E-723B-4097-9813-13DED2EF7742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23C334A-DB1F-41F2-BBDB-7E72AE742669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23C334A-DB1F-41F2-BBDB-7E72AE742669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23C334A-DB1F-41F2-BBDB-7E72AE742669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23C334A-DB1F-41F2-BBDB-7E72AE742669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
